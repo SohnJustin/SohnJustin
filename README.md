@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justin Sohn</h1>
 <h3 align="center">A passionate frontend developer from Southern California</h3>
 
-- 🔭 I’m currently working on **Front-End Projects to build my portfolio**
+- 🔭 I’m currently working on **Full-stack Projects to build my portfolio**
 
-- 🌱 I’m currently learning **The React Framework to focus my skills on Front-End Development**
+- 🌱 I’m currently learning **The React Framework to focus my skills on Front-End Development and PostgreSQL for my Back-End Development**
 
 - 👨‍💻 All of my projects are available at [https://www.jsohn.app](https://www.jsohn.app)
 
