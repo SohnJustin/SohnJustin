@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justin Sohn</h1>
-<h3 align="center">A passionate frontend developer from Southern California</h3>
+<h3 align="center">Software Engineer from Southern California</h3>
 
-- 🔭 I’m currently working on **Full-stack Projects to build my portfolio**
+- 🔭 I’m currently working on **Different types of projects to broaden my knowledge of different tech stacks**
 
-- 🌱 I’m currently learning **The React Framework to focus my skills on Front-End Development and PostgreSQL for my Back-End Development**
-
-- 👨‍💻 All of my projects are available at [https://www.jsohn.app](https://www.jsohn.app)
-
-- 👨‍💼 I am actively pursuing an Internship / Entry Level Position as a Software Engineer!
+- 👨‍💻 Resume and related project projects are available on my portfolio -> [jsohn.app](https://jsohn-app.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
